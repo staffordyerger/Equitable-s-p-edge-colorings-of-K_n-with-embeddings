@@ -1,0 +1,2 @@
+Original Graph: K_55, s=3, p=2, b(n)=27
+Embedded Graph: K_51, s=3, p=2, b(n)=25

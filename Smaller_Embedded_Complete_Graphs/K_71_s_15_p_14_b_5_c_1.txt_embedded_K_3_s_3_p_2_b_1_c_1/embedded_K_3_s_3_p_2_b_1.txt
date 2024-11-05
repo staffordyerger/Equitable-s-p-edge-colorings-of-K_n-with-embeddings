@@ -1,0 +1,5 @@
+Edge-Color Assignments:
+=======================
+Edge (0, 5) - Color 0
+Edge (0, 6) - Color 1
+Edge (5, 6) - Color 2

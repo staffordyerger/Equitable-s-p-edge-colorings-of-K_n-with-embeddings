@@ -1,0 +1,2 @@
+Original Graph: K_71, s=15, p=14, b(n)=5
+Embedded Graph: K_31, s=7, p=6, b(n)=5

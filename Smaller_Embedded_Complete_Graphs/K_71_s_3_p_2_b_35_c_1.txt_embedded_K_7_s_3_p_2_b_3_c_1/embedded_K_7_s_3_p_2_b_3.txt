@@ -1,0 +1,23 @@
+Edge-Color Assignments:
+=======================
+Edge (0, 1) - Color 0
+Edge (0, 2) - Color 0
+Edge (0, 35) - Color 0
+Edge (0, 36) - Color 1
+Edge (0, 37) - Color 1
+Edge (0, 38) - Color 1
+Edge (1, 2) - Color 0
+Edge (1, 35) - Color 0
+Edge (1, 36) - Color 1
+Edge (1, 37) - Color 1
+Edge (1, 38) - Color 1
+Edge (2, 35) - Color 0
+Edge (2, 36) - Color 1
+Edge (2, 37) - Color 1
+Edge (2, 38) - Color 1
+Edge (35, 36) - Color 2
+Edge (35, 37) - Color 2
+Edge (35, 38) - Color 2
+Edge (36, 37) - Color 2
+Edge (36, 38) - Color 2
+Edge (37, 38) - Color 2
