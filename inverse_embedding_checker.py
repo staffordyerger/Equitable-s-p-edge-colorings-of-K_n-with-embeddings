@@ -1,9 +1,15 @@
 import os
 import networkx as nx
+import matplotlib
+# Use the 'Agg' backend to prevent tkinter-related errors
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from collections import defaultdict
 import itertools
 import re
+import concurrent.futures
+import time
+from functools import partial
 
 # =======================
 # Adjustable Parameters
@@ -19,10 +25,21 @@ OUTPUT_DIR = 'Smaller_Embedded_Complete_Graphs'
 MAX_SUBSETS_PER_COMBINATION = 9000000000000000  # Adjust as needed
 
 # Range of m values to consider (must be odd integers less than n)
-M_VALUES = [3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27]  # Adjust as needed based on your requirements
+M_VALUES = [3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 
+39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 
+79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99]  # Adjust as needed
 
 # Maximum number of embedded graphs to find per (t, b) pair
 MAX_EMBEDDINGS_PER_TB = 1  # Adjust as needed
+
+# Time limit in seconds per (t, b(n)) pair
+TIME_LIMIT_PER_TB_PAIR = 30  # 30 seconds
+
+# Number of worker processes for parallelization (to be set dynamically)
+NUM_WORKERS = os.cpu_count() or 30  # Fallback to 30 if os.cpu_count() is None
+
+# Size of batch of subsets to process in each worker (not used in refactored version)
+SUBSET_BATCH_SIZE = 100000  # Adjust based on memory and performance
 
 # =======================
 # Helper Functions
@@ -59,7 +76,6 @@ def read_edge_colors_from_txt(filepath):
                     v = int(match.group(2))
                     color = int(match.group(3))
                     edge_colors[(u, v)] = color
-                    print(f"      Parsed Edge ({u}, {v}) - Color {color}")
                 else:
                     # Optionally, log skipped lines
                     if line and not line.startswith("Edge-Color Assignments"):
@@ -69,14 +85,19 @@ def read_edge_colors_from_txt(filepath):
         print(f"    Error reading {filepath}: {e}")
     return edge_colors
 
-def check_equitable_coloring(G_sub, edge_colors_sub, s, p, b):
+def check_equitable_coloring(G_sub_edges, edge_colors_sub, s, p, b, nodes):
     """
-    Check if the subgraph G_sub with edge_colors_sub forms an equitable (s, p) edge coloring.
+    Check if the subgraph defined by G_sub_edges with edge_colors_sub forms an equitable (s, p) edge coloring.
+    Additionally, ensure that exactly s distinct colors are used in the embedded graph.
     """
-    color_usage = {node: defaultdict(int) for node in G_sub.nodes()}
-    distinct_color_count = {node: 0 for node in G_sub.nodes()}
+    color_usage = {node: defaultdict(int) for node in nodes}
+    distinct_color_count = {node: 0 for node in nodes}
+    total_colors = set()
 
     for (u, v), color in edge_colors_sub.items():
+        # Update total colors
+        total_colors.add(color)
+
         # Update color_usage for u
         if color not in color_usage[u]:
             distinct_color_count[u] += 1
@@ -86,8 +107,12 @@ def check_equitable_coloring(G_sub, edge_colors_sub, s, p, b):
             distinct_color_count[v] += 1
         color_usage[v][color] += 1
 
+    # Check if the total number of distinct colors is exactly s
+    if len(total_colors) != s:
+        return False
+
     # Check if each vertex has exactly p distinct colors, each appearing b times
-    for node in G_sub.nodes():
+    for node in nodes:
         if distinct_color_count[node] != p:
             return False
         for color_count in color_usage[node].values():
@@ -103,7 +128,7 @@ def visualize_and_save_graph(G, edge_colors, title, filepath_png):
     # Create a color map
     cmap = plt.get_cmap('tab20')
     edge_color_map = [cmap(edge_colors.get((u, v), edge_colors.get((v, u))) % 20) for u, v in G.edges()]
-
+    
     plt.figure(figsize=(8, 8))
     nx.draw_networkx_nodes(G, pos, node_size=300, node_color='lightblue')
     nx.draw_networkx_labels(G, pos, font_size=10)
@@ -171,133 +196,147 @@ def visualize_and_save_combined_graphs(G_original, edge_colors_original, G_embed
     plt.close()
     print(f"      Saved combined graph as {filepath_png}")
 
-def process_original_coloring(filepath):
+def process_t_b_pair(args):
     """
-    Process a single original coloring to find embedded equitable (s, p) edge colorings.
+    Process a single (filepath, m, t, b) pair to find embedded equitable (s, p) edge colorings.
+    This function is designed to be called in parallel.
+    Returns:
+        successes: List of tuples (original_title, embedded_title)
+        failures: List of tuples (original_title, attempted_embedding_title, reason)
     """
-    filename = os.path.basename(filepath)
-    print(f"\nProcessing {filename}")
+    filepath, filename, n, s, p, b, m, t_b_pair, count = args
+    t_sub, b_sub = t_b_pair
 
-    # Extract n, s, p, b from the filename
-    parts = filename.split('_')
-    try:
-        n = int(parts[1])
-        s = int(parts[3])
-        p = int(parts[5])
-        b = int(parts[7])
-        count_part = parts[9]
-        count = re.findall(r'\d+', count_part)[0] if re.findall(r'\d+', count_part) else '1'
-    except (IndexError, ValueError) as e:
-        print(f"    Error parsing filename {filename}: {e}")
-        return
+    print(f"\nProcessing {filename} for m={m} with (t={t_sub}, b(n)={b_sub})")
 
     # Read the edge-color assignments
     edge_colors = read_edge_colors_from_txt(filepath)
 
     if not edge_colors:
         print(f"    No edge colors found in {filename}. Skipping.")
-        return
+        # Even if no edge colors, it's considered a failure with no embedding
+        original_title = f'K_{n}_s_{s}_p_{p}_b_{b}_c_{count}'
+        attempted_embedding_title = f'K_{m}_s_{2 * t_sub +1}_p_{2 * t_sub}_b_{b_sub}'
+        return ([], [(original_title, attempted_embedding_title, 'no embedding existed')])
 
     # Reconstruct the original graph
     G = nx.complete_graph(n)
 
-    # Iterate through each m
-    for m in M_VALUES:
-        if m >= n or m < 3 or m % 2 == 0:
-            print(f"  Skipping m={m} as it is invalid (must be odd and less than n).")
-            continue  # Skip invalid m values
+    # Calculate s and p for equitable coloring
+    s_sub = 2 * t_sub + 1
+    p_sub = 2 * t_sub
 
-        t_b_pairs = find_t_b_for_n(m)
-        if not t_b_pairs:
-            print(f"  No (t, b(n)) pairs found for K_{m}. Skipping m={m}.")
-            continue
+    embedding_count = 0  # Initialize embedding count for this (t, b(n)) pair
+    successes = []
+    failures = []
 
-        print(f"  Checking for embedded K_{m} graphs with possible (t, b(n)) pairs: {t_b_pairs}")
+    # Start timer
+    start_time = time.time()
+    timed_out = False
 
-        for tb in t_b_pairs:
-            t_sub, b_sub = tb
-            print(f"    Processing (t={t_sub}, b(n)={b_sub}) for m={m}")
+    # Generate combinations of m vertices
+    vertex_subsets = itertools.combinations(G.nodes(), m)
 
-            embedding_count = 0  # Initialize embedding count for this (t, b(n)) pair
+    # To keep track of embeddings found
+    embeddings_found = []
 
-            # Generate combinations of m vertices
-            vertex_subsets = itertools.combinations(G.nodes(), m)
-            subset_checked = 0
+    try:
+        for subset in vertex_subsets:
+            # Check if time limit exceeded
+            elapsed_time = time.time() - start_time
+            if elapsed_time > TIME_LIMIT_PER_TB_PAIR:
+                print(f"      Time limit exceeded ({TIME_LIMIT_PER_TB_PAIR} seconds) for (t={t_sub}, b(n)={b_sub}). Moving to next.")
+                timed_out = True
+                break
 
-            for subset in vertex_subsets:
+            nodes = subset
+            edges = []
+            edge_colors_sub = {}
+            missing_edge = False
+            for u, v in itertools.combinations(subset, 2):
+                if (u, v) in edge_colors:
+                    edges.append((u, v))
+                    edge_colors_sub[(u, v)] = edge_colors[(u, v)]
+                elif (v, u) in edge_colors:
+                    edges.append((u, v))
+                    edge_colors_sub[(u, v)] = edge_colors[(v, u)]
+                else:
+                    missing_edge = True
+                    break
+            if missing_edge:
+                continue
+            if check_equitable_coloring(edges, edge_colors_sub, s_sub, p_sub, b_sub, nodes):
+                embedding_count += 1
+                print(f"      Found embedded K_{m} with t={t_sub}, b(n)={b_sub} (Count: {embedding_count})")
+
+                # Record the characteristics
+                original_title = f'K_{n}_s_{s}_p_{p}_b_{b}_c_{count}'
+                embedded_title = f'K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}_c_{embedding_count}'
+                successes.append((original_title, embedded_title))
+
+                # Save the original and embedded graphs
+                output_subdir = os.path.join(
+                    OUTPUT_DIR,
+                    f"{filename}_embedded_K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}_c_{embedding_count}"
+                )
+                os.makedirs(output_subdir, exist_ok=True)
+
+                # Original graph
+                original_png = os.path.join(output_subdir, f'original_{filename}.png')
+                visualize_and_save_graph(G, edge_colors, original_title, original_png)
+                original_txt = os.path.join(output_subdir, f'original_{filename}.txt')
+                save_edge_colors_to_txt(G, edge_colors, original_txt)
+
+                # Embedded graph
+                G_sub = G.subgraph(subset).copy()
+                embedded_png = os.path.join(output_subdir, f'embedded_K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}.png')
+                visualize_and_save_graph(G_sub, edge_colors_sub, embedded_title, embedded_png)
+                embedded_txt = os.path.join(output_subdir, f'embedded_K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}.txt')
+                save_edge_colors_to_txt(G_sub, edge_colors_sub, embedded_txt)
+
+                # Combined graph visualization
+                combined_title_original = original_title
+                combined_title_embedded = embedded_title
+                combined_png = os.path.join(
+                    output_subdir,
+                    f'combined_original_embedded_K_{m}_t_{t_sub}_b_{b_sub}_c_{embedding_count}.png'
+                )
+                visualize_and_save_combined_graphs(
+                    G,
+                    edge_colors,
+                    G_sub,
+                    edge_colors_sub,
+                    combined_title_original,
+                    combined_title_embedded,
+                    combined_png
+                )
+
+                # Record the characteristics
+                info_filepath = os.path.join(output_subdir, 'embedded_graph_info.txt')
+                try:
+                    with open(info_filepath, 'w') as info_file:
+                        info_file.write(f"Original Graph: {original_title}\n")
+                        info_file.write(f"Embedded Graph: {embedded_title}\n")
+                    print(f"      Recorded embedded graph characteristics in {info_filepath}")
+                except Exception as e:
+                    print(f"    Error writing info file: {e}")
+
                 if embedding_count >= MAX_EMBEDDINGS_PER_TB:
                     print(f"      Reached maximum embeddings ({MAX_EMBEDDINGS_PER_TB}) for (t={t_sub}, b(n)={b_sub}).")
-                    break  # Move to the next (t, b(n)) pair
+                    break
 
-                G_sub = G.subgraph(subset).copy()
-                edge_colors_sub = {}
-                # Extract the edge colors for the subgraph
-                missing_edge = False
-                for u, v in G_sub.edges():
-                    color = edge_colors.get((u, v), edge_colors.get((v, u)))
-                    if color is not None:
-                        edge_colors_sub[(u, v)] = color
-                    else:
-                        missing_edge = True
-                        print(f"      Subset {subset} skipped due to missing edge colors.")
-                        break  # Edge not found in original coloring (should not happen)
-                if missing_edge:
-                    continue  # Skip this subset
+    except Exception as e:
+        print(f"      Exception during processing subsets: {e}")
 
-                # Calculate s and p for equitable coloring
-                s_sub = 2 * t_sub + 1
-                p_sub = 2 * t_sub
+    if embedding_count == 0:
+        original_title = f'K_{n}_s_{s}_p_{p}_b_{b}_c_{count}'
+        attempted_embedding_title = f'K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}'
+        reason = 'timed out' if timed_out else 'no embedding existed'
+        failures.append((original_title, attempted_embedding_title, reason))
 
-                if check_equitable_coloring(G_sub, edge_colors_sub, s_sub, p_sub, b_sub):
-                    # Found an embedded equitable coloring
-                    embedding_count += 1
-                    print(f"      Found embedded K_{m} with t={t_sub}, b(n)={b_sub} (Count: {embedding_count})")
+    print(f"    Completed processing for (t={t_sub}, b(n)={b_sub}) with {embedding_count} embeddings found.")
 
-                    # Save the original and embedded graphs
-                    output_subdir = os.path.join(OUTPUT_DIR, f"{filename}_embedded_K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}_c_{embedding_count}")
-                    os.makedirs(output_subdir, exist_ok=True)
-
-                    # Original graph
-                    original_title = f'Original {filename}'
-                    original_png = os.path.join(output_subdir, f'original_{filename}.png')
-                    visualize_and_save_graph(G, edge_colors, original_title, original_png)
-                    original_txt = os.path.join(output_subdir, f'original_{filename}.txt')
-                    save_edge_colors_to_txt(G, edge_colors, original_txt)
-
-                    # Embedded graph
-                    embedded_title = f'Embedded K_{m} with s={s_sub}, p={p_sub}, b(n)={b_sub}'
-                    embedded_png = os.path.join(output_subdir, f'embedded_K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}.png')
-                    visualize_and_save_graph(G_sub, edge_colors_sub, embedded_title, embedded_png)
-                    embedded_txt = os.path.join(output_subdir, f'embedded_K_{m}_s_{s_sub}_p_{p_sub}_b_{b_sub}.txt')
-                    save_edge_colors_to_txt(G_sub, edge_colors_sub, embedded_txt)
-
-                    # Combined graph visualization
-                    combined_title_original = f'Original K_{n} Coloring #{count}'
-                    combined_title_embedded = f'Embedded K_{m} Coloring s={s_sub}, p={p_sub}, b(n)={b_sub}'
-                    combined_png = os.path.join(output_subdir, f'combined_original_embedded_K_{m}_t_{t_sub}_b_{b_sub}_c_{embedding_count}.png')
-                    visualize_and_save_combined_graphs(
-                        G,
-                        edge_colors,
-                        G_sub,
-                        edge_colors_sub,
-                        combined_title_original,
-                        combined_title_embedded,
-                        combined_png
-                    )
-
-                    # Record the characteristics
-                    info_filepath = os.path.join(output_subdir, 'embedded_graph_info.txt')
-                    try:
-                        with open(info_filepath, 'w') as info_file:
-                            info_file.write(f"Original Graph: K_{n}, s={s}, p={p}, b(n)={b}\n")
-                            info_file.write(f"Embedded Graph: K_{m}, s={s_sub}, p={p_sub}, b(n)={b_sub}\n")
-                        print(f"      Recorded embedded graph characteristics in {info_filepath}")
-                    except Exception as e:
-                        print(f"    Error writing info file: {e}")
-
-    # =======================
-    # Main Function
-    # =======================
+    return (successes, failures)
 
 def main():
     # Ensure the output directory exists
@@ -315,11 +354,78 @@ def main():
 
     print(f"Found {len(txt_files)} .txt files in '{INPUT_DIR}'.")
 
+    # Prepare a list of tasks
+    tasks = []
+
     for txt_file in txt_files:
         filepath = os.path.join(INPUT_DIR, txt_file)
-        process_original_coloring(filepath)
+        filename = os.path.basename(filepath)
+
+        # Extract n, s, p, b from the filename
+        parts = filename.split('_')
+        try:
+            n = int(parts[1])
+            s = int(parts[3])
+            p = int(parts[5])
+            b = int(parts[7])
+            count_part = parts[9]
+            count = re.findall(r'\d+', count_part)[0] if re.findall(r'\d+', count_part) else '1'
+        except (IndexError, ValueError) as e:
+            print(f"    Error parsing filename {filename}: {e}")
+            continue
+
+        # Iterate through each m
+        for m in M_VALUES:
+            if m >= n or m < 3 or m % 2 == 0:
+                print(f"  Skipping m={m} as it is invalid (must be odd and less than n).")
+                continue  # Skip invalid m values
+
+            t_b_pairs = find_t_b_for_n(m)
+            if not t_b_pairs:
+                print(f"  No (t, b(n)) pairs found for K_{m}. Skipping m={m}.")
+                continue
+
+            print(f"  Preparing tasks for embedded K_{m} graphs with possible (t, b(n)) pairs: {t_b_pairs}")
+
+            for tb in t_b_pairs:
+                # Each task is a tuple of arguments to be passed to process_t_b_pair
+                task_args = (filepath, filename, n, s, p, b, m, tb, count)
+                tasks.append(task_args)
+
+    print(f"Total tasks to process: {len(tasks)}")
+
+    # Use ProcessPoolExecutor to handle multiple (file, m, t, b) pairs in parallel
+    with concurrent.futures.ProcessPoolExecutor(max_workers=NUM_WORKERS) as executor:
+        # Submit all tasks to the executor and collect results
+        results = executor.map(process_t_b_pair, tasks)
+
+    # Collect all successes and failures
+    all_successes = []
+    all_failures = []
+    for res in results:
+        successes, failures = res
+        all_successes.extend(successes)
+        all_failures.extend(failures)
+
+    # Write the overview file
+    overview_path = os.path.join(OUTPUT_DIR, 'overview.txt')
+    try:
+        with open(overview_path, 'w') as overview_file:
+            overview_file.write("Successes:\n")
+            overview_file.write("=======================\n")
+            for orig, embed in all_successes:
+                overview_file.write(f"{orig} -> {embed}\n")
+            
+            overview_file.write("\nFailures:\n")
+            overview_file.write("=======================\n")
+            for orig, embed, reason in all_failures:
+                overview_file.write(f"{orig} -> {embed} | Reason: {reason}\n")
+        print(f"\nOverview file created at {overview_path}")
+    except Exception as e:
+        print(f"Error writing overview file: {e}")
 
     print(f"\nAll colorings have been processed. Check the '{OUTPUT_DIR}' directory for results.")
 
 if __name__ == "__main__":
     main()
+

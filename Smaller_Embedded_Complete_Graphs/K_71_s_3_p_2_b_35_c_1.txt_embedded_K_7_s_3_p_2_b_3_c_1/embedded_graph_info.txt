@@ -1,2 +1,2 @@
-Original Graph: K_71, s=3, p=2, b(n)=35
-Embedded Graph: K_7, s=3, p=2, b(n)=3
+Original Graph: K_71_s_3_p_2_b_35_c_1
+Embedded Graph: K_7_s_3_p_2_b_3_c_1

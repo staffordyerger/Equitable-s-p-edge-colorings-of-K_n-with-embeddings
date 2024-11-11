@@ -1,2 +1,2 @@
-Original Graph: K_79, s=7, p=6, b(n)=13
-Embedded Graph: K_27, s=3, p=2, b(n)=13
+Original Graph: K_79_s_7_p_6_b_13_c_1
+Embedded Graph: K_27_s_3_p_2_b_13_c_1

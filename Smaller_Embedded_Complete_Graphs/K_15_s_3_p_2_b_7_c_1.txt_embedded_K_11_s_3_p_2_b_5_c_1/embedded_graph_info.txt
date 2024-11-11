@@ -1,2 +1,2 @@
-Original Graph: K_15, s=3, p=2, b(n)=7
-Embedded Graph: K_11, s=3, p=2, b(n)=5
+Original Graph: K_15_s_3_p_2_b_7_c_1
+Embedded Graph: K_11_s_3_p_2_b_5_c_1

@@ -1,2 +1,2 @@
-Original Graph: K_95, s=3, p=2, b(n)=47
-Embedded Graph: K_3, s=3, p=2, b(n)=1
+Original Graph: K_95_s_3_p_2_b_47_c_1
+Embedded Graph: K_3_s_3_p_2_b_1_c_1

@@ -1,2 +1,2 @@
-Original Graph: K_91, s=31, p=30, b(n)=3
-Embedded Graph: K_19, s=7, p=6, b(n)=3
+Original Graph: K_91_s_31_p_30_b_3_c_1
+Embedded Graph: K_19_s_7_p_6_b_3_c_1

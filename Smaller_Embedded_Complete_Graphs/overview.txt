@@ -1,0 +1,2138 @@
+Successes:
+=======================
+K_75_s_3_p_2_b_37_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_75_s_3_p_2_b_37_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_91_s_3_p_2_b_45_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_51_s_3_p_2_b_25_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_51_s_3_p_2_b_25_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_51_s_3_p_2_b_25_c_1 -> K_47_s_3_p_2_b_23_c_1
+K_27_s_3_p_2_b_13_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_27_s_3_p_2_b_13_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_27_s_3_p_2_b_13_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_27_s_3_p_2_b_13_c_1 -> K_15_s_3_p_2_b_7_c_1
+K_27_s_3_p_2_b_13_c_1 -> K_19_s_3_p_2_b_9_c_1
+K_27_s_3_p_2_b_13_c_1 -> K_23_s_3_p_2_b_11_c_1
+K_59_s_3_p_2_b_29_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_59_s_3_p_2_b_29_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_63_s_63_p_62_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_63_s_63_p_62_b_1_c_1 -> K_7_s_7_p_6_b_1_c_1
+K_63_s_63_p_62_b_1_c_1 -> K_15_s_15_p_14_b_1_c_1
+K_63_s_63_p_62_b_1_c_1 -> K_31_s_31_p_30_b_1_c_1
+K_71_s_3_p_2_b_35_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_71_s_3_p_2_b_35_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_7_s_7_p_6_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_99_s_15_p_14_b_7_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_99_s_15_p_14_b_7_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_99_s_15_p_14_b_7_c_1 -> K_15_s_3_p_2_b_7_c_1
+K_99_s_15_p_14_b_7_c_1 -> K_43_s_7_p_6_b_7_c_1
+K_43_s_15_p_14_b_3_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_43_s_15_p_14_b_3_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_43_s_15_p_14_b_3_c_1 -> K_19_s_7_p_6_b_3_c_1
+K_15_s_3_p_2_b_7_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_15_s_3_p_2_b_7_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_15_s_3_p_2_b_7_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_95_s_3_p_2_b_47_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_19_s_7_p_6_b_3_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_19_s_7_p_6_b_3_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_19_s_7_p_6_b_3_c_1 -> K_7_s_7_p_6_b_1_c_1
+K_15_s_15_p_14_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_15_s_15_p_14_b_1_c_1 -> K_7_s_7_p_6_b_1_c_1
+K_91_s_7_p_6_b_15_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_91_s_7_p_6_b_15_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_91_s_7_p_6_b_15_c_1 -> K_31_s_3_p_2_b_15_c_1
+K_11_s_3_p_2_b_5_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_11_s_3_p_2_b_5_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_79_s_7_p_6_b_13_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_79_s_7_p_6_b_13_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_79_s_7_p_6_b_13_c_1 -> K_27_s_3_p_2_b_13_c_1
+K_83_s_3_p_2_b_41_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_83_s_3_p_2_b_41_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_55_s_3_p_2_b_27_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_55_s_3_p_2_b_27_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_55_s_3_p_2_b_27_c_1 -> K_51_s_3_p_2_b_25_c_1
+K_19_s_3_p_2_b_9_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_19_s_3_p_2_b_9_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_19_s_3_p_2_b_9_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_19_s_3_p_2_b_9_c_1 -> K_15_s_3_p_2_b_7_c_1
+K_79_s_3_p_2_b_39_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_79_s_3_p_2_b_39_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_67_s_7_p_6_b_11_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_67_s_7_p_6_b_11_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_67_s_7_p_6_b_11_c_1 -> K_23_s_3_p_2_b_11_c_1
+K_9_s_9_p_8_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_13_s_5_p_4_b_3_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_39_s_3_p_2_b_19_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_39_s_3_p_2_b_19_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_39_s_3_p_2_b_19_c_1 -> K_35_s_3_p_2_b_17_c_1
+K_55_s_7_p_6_b_9_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_55_s_7_p_6_b_9_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_55_s_7_p_6_b_9_c_1 -> K_19_s_3_p_2_b_9_c_1
+K_47_s_3_p_2_b_23_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_47_s_3_p_2_b_23_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_47_s_3_p_2_b_23_c_1 -> K_43_s_3_p_2_b_21_c_1
+K_43_s_7_p_6_b_7_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_43_s_7_p_6_b_7_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_43_s_7_p_6_b_7_c_1 -> K_15_s_3_p_2_b_7_c_1
+K_35_s_3_p_2_b_17_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_35_s_3_p_2_b_17_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_35_s_3_p_2_b_17_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_35_s_3_p_2_b_17_c_1 -> K_31_s_3_p_2_b_15_c_1
+K_63_s_3_p_2_b_31_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_63_s_3_p_2_b_31_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_5_s_5_p_4_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_71_s_15_p_14_b_5_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_71_s_15_p_14_b_5_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_71_s_15_p_14_b_5_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_71_s_15_p_14_b_5_c_1 -> K_31_s_7_p_6_b_5_c_1
+K_23_s_3_p_2_b_11_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_23_s_3_p_2_b_11_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_23_s_3_p_2_b_11_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_23_s_3_p_2_b_11_c_1 -> K_15_s_3_p_2_b_7_c_1
+K_23_s_3_p_2_b_11_c_1 -> K_19_s_3_p_2_b_9_c_1
+K_11_s_11_p_10_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_99_s_3_p_2_b_49_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_67_s_3_p_2_b_33_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_67_s_3_p_2_b_33_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_7_s_3_p_2_b_3_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_31_s_3_p_2_b_15_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_31_s_3_p_2_b_15_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_31_s_3_p_2_b_15_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_31_s_3_p_2_b_15_c_1 -> K_23_s_3_p_2_b_11_c_1
+K_31_s_3_p_2_b_15_c_1 -> K_27_s_3_p_2_b_13_c_1
+K_31_s_7_p_6_b_5_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_31_s_7_p_6_b_5_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_31_s_7_p_6_b_5_c_1 -> K_7_s_7_p_6_b_1_c_1
+K_31_s_7_p_6_b_5_c_1 -> K_11_s_3_p_2_b_5_c_1
+K_87_s_3_p_2_b_43_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_31_s_31_p_30_b_1_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_31_s_31_p_30_b_1_c_1 -> K_7_s_7_p_6_b_1_c_1
+K_31_s_31_p_30_b_1_c_1 -> K_15_s_15_p_14_b_1_c_1
+K_43_s_3_p_2_b_21_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_43_s_3_p_2_b_21_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_43_s_3_p_2_b_21_c_1 -> K_39_s_3_p_2_b_19_c_1
+K_91_s_31_p_30_b_3_c_1 -> K_3_s_3_p_2_b_1_c_1
+K_91_s_31_p_30_b_3_c_1 -> K_7_s_3_p_2_b_3_c_1
+K_91_s_31_p_30_b_3_c_1 -> K_19_s_7_p_6_b_3_c_1
+K_91_s_31_p_30_b_3_c_1 -> K_43_s_15_p_14_b_3_c_1
+
+Failures:
+=======================
+K_75_s_3_p_2_b_37_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_75_s_3_p_2_b_37_c_1 -> K_73_s_9_p_8_b_9 | Reason: no embedding existed
+K_75_s_3_p_2_b_37_c_1 -> K_73_s_25_p_24_b_3 | Reason: no embedding existed
+K_75_s_3_p_2_b_37_c_1 -> K_73_s_73_p_72_b_1 | Reason: no embedding existed
+K_91_s_3_p_2_b_45_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_7_s_3_p_2_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_85_s_5_p_4_b_21 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_85_s_13_p_12_b_7 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_85_s_29_p_28_b_3 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_85_s_85_p_84_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_87_s_3_p_2_b_43 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_87_s_87_p_86_b_1 | Reason: timed out
+K_91_s_3_p_2_b_45_c_1 -> K_89_s_9_p_8_b_11 | Reason: no embedding existed
+K_91_s_3_p_2_b_45_c_1 -> K_89_s_89_p_88_b_1 | Reason: no embedding existed
+K_51_s_3_p_2_b_25_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_51_s_3_p_2_b_25_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_51_s_3_p_2_b_25_c_1 -> K_49_s_17_p_16_b_3 | Reason: no embedding existed
+K_51_s_3_p_2_b_25_c_1 -> K_49_s_49_p_48_b_1 | Reason: no embedding existed
+K_27_s_3_p_2_b_13_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_27_s_3_p_2_b_13_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_27_s_3_p_2_b_13_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_27_s_3_p_2_b_13_c_1 -> K_23_s_23_p_22_b_1 | Reason: no embedding existed
+K_27_s_3_p_2_b_13_c_1 -> K_25_s_9_p_8_b_3 | Reason: no embedding existed
+K_27_s_3_p_2_b_13_c_1 -> K_25_s_25_p_24_b_1 | Reason: no embedding existed
+K_59_s_3_p_2_b_29_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_59_s_3_p_2_b_29_c_1 -> K_57_s_9_p_8_b_7 | Reason: no embedding existed
+K_59_s_3_p_2_b_29_c_1 -> K_57_s_57_p_56_b_1 | Reason: no embedding existed
+K_63_s_63_p_62_b_1_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_7_s_3_p_2_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_63_s_63_p_62_b_1_c_1 -> K_61_s_5_p_4_b_15 | Reason: no embedding existed
+K_63_s_63_p_62_b_1_c_1 -> K_61_s_13_p_12_b_5 | Reason: no embedding existed
+K_63_s_63_p_62_b_1_c_1 -> K_61_s_21_p_20_b_3 | Reason: no embedding existed
+K_63_s_63_p_62_b_1_c_1 -> K_61_s_61_p_60_b_1 | Reason: no embedding existed
+K_71_s_3_p_2_b_35_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_71_s_3_p_2_b_35_c_1 -> K_69_s_5_p_4_b_17 | Reason: no embedding existed
+K_71_s_3_p_2_b_35_c_1 -> K_69_s_69_p_68_b_1 | Reason: no embedding existed
+K_7_s_7_p_6_b_1_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_99_s_15_p_14_b_7_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_85_s_5_p_4_b_21 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_85_s_13_p_12_b_7 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_85_s_29_p_28_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_85_s_85_p_84_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_87_s_3_p_2_b_43 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_87_s_87_p_86_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_89_s_9_p_8_b_11 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_89_s_89_p_88_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_91_s_3_p_2_b_45 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_91_s_7_p_6_b_15 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_91_s_11_p_10_b_9 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_91_s_19_p_18_b_5 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_91_s_31_p_30_b_3 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_91_s_91_p_90_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_93_s_5_p_4_b_23 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_93_s_93_p_92_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_95_s_3_p_2_b_47 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_95_s_95_p_94_b_1 | Reason: timed out
+K_99_s_15_p_14_b_7_c_1 -> K_97_s_33_p_32_b_3 | Reason: no embedding existed
+K_99_s_15_p_14_b_7_c_1 -> K_97_s_97_p_96_b_1 | Reason: no embedding existed
+K_43_s_15_p_14_b_3_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_43_s_15_p_14_b_3_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_43_s_15_p_14_b_3_c_1 -> K_41_s_9_p_8_b_5 | Reason: no embedding existed
+K_43_s_15_p_14_b_3_c_1 -> K_41_s_41_p_40_b_1 | Reason: no embedding existed
+K_15_s_3_p_2_b_7_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_15_s_3_p_2_b_7_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_15_s_3_p_2_b_7_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_15_s_3_p_2_b_7_c_1 -> K_11_s_11_p_10_b_1 | Reason: no embedding existed
+K_15_s_3_p_2_b_7_c_1 -> K_13_s_5_p_4_b_3 | Reason: no embedding existed
+K_15_s_3_p_2_b_7_c_1 -> K_13_s_13_p_12_b_1 | Reason: no embedding existed
+K_95_s_3_p_2_b_47_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_7_s_3_p_2_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_85_s_5_p_4_b_21 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_85_s_13_p_12_b_7 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_85_s_29_p_28_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_85_s_85_p_84_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_87_s_3_p_2_b_43 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_87_s_87_p_86_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_89_s_9_p_8_b_11 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_89_s_89_p_88_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_91_s_3_p_2_b_45 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_91_s_7_p_6_b_15 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_91_s_11_p_10_b_9 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_91_s_19_p_18_b_5 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_91_s_31_p_30_b_3 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_91_s_91_p_90_b_1 | Reason: timed out
+K_95_s_3_p_2_b_47_c_1 -> K_93_s_5_p_4_b_23 | Reason: no embedding existed
+K_95_s_3_p_2_b_47_c_1 -> K_93_s_93_p_92_b_1 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_11_s_3_p_2_b_5 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_11_s_11_p_10_b_1 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_13_s_5_p_4_b_3 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_13_s_13_p_12_b_1 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_15_s_3_p_2_b_7 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_15_s_15_p_14_b_1 | Reason: no embedding existed
+K_19_s_7_p_6_b_3_c_1 -> K_17_s_17_p_16_b_1 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_7_s_3_p_2_b_3 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_11_s_3_p_2_b_5 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_11_s_11_p_10_b_1 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_13_s_5_p_4_b_3 | Reason: no embedding existed
+K_15_s_15_p_14_b_1_c_1 -> K_13_s_13_p_12_b_1 | Reason: no embedding existed
+K_91_s_7_p_6_b_15_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_85_s_5_p_4_b_21 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_85_s_13_p_12_b_7 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_85_s_29_p_28_b_3 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_85_s_85_p_84_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_87_s_3_p_2_b_43 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_87_s_87_p_86_b_1 | Reason: timed out
+K_91_s_7_p_6_b_15_c_1 -> K_89_s_9_p_8_b_11 | Reason: no embedding existed
+K_91_s_7_p_6_b_15_c_1 -> K_89_s_89_p_88_b_1 | Reason: no embedding existed
+K_11_s_3_p_2_b_5_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_11_s_3_p_2_b_5_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_11_s_3_p_2_b_5_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_79_s_7_p_6_b_13_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_79_s_7_p_6_b_13_c_1 -> K_77_s_5_p_4_b_19 | Reason: no embedding existed
+K_79_s_7_p_6_b_13_c_1 -> K_77_s_77_p_76_b_1 | Reason: no embedding existed
+K_83_s_3_p_2_b_41_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_83_s_3_p_2_b_41_c_1 -> K_81_s_17_p_16_b_5 | Reason: no embedding existed
+K_83_s_3_p_2_b_41_c_1 -> K_81_s_81_p_80_b_1 | Reason: no embedding existed
+K_55_s_3_p_2_b_27_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_55_s_3_p_2_b_27_c_1 -> K_53_s_5_p_4_b_13 | Reason: no embedding existed
+K_55_s_3_p_2_b_27_c_1 -> K_53_s_53_p_52_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_11_s_11_p_10_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_13_s_5_p_4_b_3 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_13_s_13_p_12_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_15_s_15_p_14_b_1 | Reason: no embedding existed
+K_19_s_3_p_2_b_9_c_1 -> K_17_s_17_p_16_b_1 | Reason: no embedding existed
+K_79_s_3_p_2_b_39_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_79_s_3_p_2_b_39_c_1 -> K_77_s_5_p_4_b_19 | Reason: no embedding existed
+K_79_s_3_p_2_b_39_c_1 -> K_77_s_77_p_76_b_1 | Reason: no embedding existed
+K_67_s_7_p_6_b_11_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_67_s_7_p_6_b_11_c_1 -> K_65_s_65_p_64_b_1 | Reason: no embedding existed
+K_9_s_9_p_8_b_1_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_9_s_9_p_8_b_1_c_1 -> K_7_s_3_p_2_b_3 | Reason: no embedding existed
+K_9_s_9_p_8_b_1_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_13_s_5_p_4_b_3_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_13_s_5_p_4_b_3_c_1 -> K_7_s_3_p_2_b_3 | Reason: no embedding existed
+K_13_s_5_p_4_b_3_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_13_s_5_p_4_b_3_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_13_s_5_p_4_b_3_c_1 -> K_11_s_3_p_2_b_5 | Reason: no embedding existed
+K_13_s_5_p_4_b_3_c_1 -> K_11_s_11_p_10_b_1 | Reason: no embedding existed
+K_39_s_3_p_2_b_19_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_39_s_3_p_2_b_19_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_39_s_3_p_2_b_19_c_1 -> K_35_s_35_p_34_b_1 | Reason: no embedding existed
+K_39_s_3_p_2_b_19_c_1 -> K_37_s_5_p_4_b_9 | Reason: no embedding existed
+K_39_s_3_p_2_b_19_c_1 -> K_37_s_13_p_12_b_3 | Reason: no embedding existed
+K_39_s_3_p_2_b_19_c_1 -> K_37_s_37_p_36_b_1 | Reason: no embedding existed
+K_55_s_7_p_6_b_9_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_55_s_7_p_6_b_9_c_1 -> K_53_s_5_p_4_b_13 | Reason: no embedding existed
+K_55_s_7_p_6_b_9_c_1 -> K_53_s_53_p_52_b_1 | Reason: no embedding existed
+K_47_s_3_p_2_b_23_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_47_s_3_p_2_b_23_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_47_s_3_p_2_b_23_c_1 -> K_45_s_5_p_4_b_11 | Reason: no embedding existed
+K_47_s_3_p_2_b_23_c_1 -> K_45_s_45_p_44_b_1 | Reason: no embedding existed
+K_43_s_7_p_6_b_7_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_43_s_7_p_6_b_7_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_43_s_7_p_6_b_7_c_1 -> K_41_s_9_p_8_b_5 | Reason: no embedding existed
+K_43_s_7_p_6_b_7_c_1 -> K_41_s_41_p_40_b_1 | Reason: no embedding existed
+K_35_s_3_p_2_b_17_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_35_s_3_p_2_b_17_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_35_s_3_p_2_b_17_c_1 -> K_31_s_7_p_6_b_5 | Reason: no embedding existed
+K_35_s_3_p_2_b_17_c_1 -> K_31_s_11_p_10_b_3 | Reason: no embedding existed
+K_35_s_3_p_2_b_17_c_1 -> K_31_s_31_p_30_b_1 | Reason: no embedding existed
+K_35_s_3_p_2_b_17_c_1 -> K_33_s_33_p_32_b_1 | Reason: no embedding existed
+K_63_s_3_p_2_b_31_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_63_s_3_p_2_b_31_c_1 -> K_61_s_5_p_4_b_15 | Reason: no embedding existed
+K_63_s_3_p_2_b_31_c_1 -> K_61_s_13_p_12_b_5 | Reason: no embedding existed
+K_63_s_3_p_2_b_31_c_1 -> K_61_s_21_p_20_b_3 | Reason: no embedding existed
+K_63_s_3_p_2_b_31_c_1 -> K_61_s_61_p_60_b_1 | Reason: no embedding existed
+K_71_s_15_p_14_b_5_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_71_s_15_p_14_b_5_c_1 -> K_69_s_5_p_4_b_17 | Reason: no embedding existed
+K_71_s_15_p_14_b_5_c_1 -> K_69_s_69_p_68_b_1 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_23_s_3_p_2_b_11_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_23_s_3_p_2_b_11_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_23_s_3_p_2_b_11_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_23_s_3_p_2_b_11_c_1 -> K_17_s_17_p_16_b_1 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_19_s_7_p_6_b_3 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_19_s_19_p_18_b_1 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_21_s_5_p_4_b_5 | Reason: no embedding existed
+K_23_s_3_p_2_b_11_c_1 -> K_21_s_21_p_20_b_1 | Reason: no embedding existed
+K_11_s_11_p_10_b_1_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_11_s_11_p_10_b_1_c_1 -> K_7_s_3_p_2_b_3 | Reason: no embedding existed
+K_11_s_11_p_10_b_1_c_1 -> K_7_s_7_p_6_b_1 | Reason: no embedding existed
+K_11_s_11_p_10_b_1_c_1 -> K_9_s_9_p_8_b_1 | Reason: no embedding existed
+K_99_s_3_p_2_b_49_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_7_s_3_p_2_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_85_s_5_p_4_b_21 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_85_s_13_p_12_b_7 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_85_s_29_p_28_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_85_s_85_p_84_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_87_s_3_p_2_b_43 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_87_s_87_p_86_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_89_s_9_p_8_b_11 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_89_s_89_p_88_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_91_s_3_p_2_b_45 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_91_s_7_p_6_b_15 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_91_s_11_p_10_b_9 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_91_s_19_p_18_b_5 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_91_s_31_p_30_b_3 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_91_s_91_p_90_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_93_s_5_p_4_b_23 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_93_s_93_p_92_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_95_s_3_p_2_b_47 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_95_s_95_p_94_b_1 | Reason: timed out
+K_99_s_3_p_2_b_49_c_1 -> K_97_s_33_p_32_b_3 | Reason: no embedding existed
+K_99_s_3_p_2_b_49_c_1 -> K_97_s_97_p_96_b_1 | Reason: no embedding existed
+K_67_s_3_p_2_b_33_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_67_s_3_p_2_b_33_c_1 -> K_65_s_65_p_64_b_1 | Reason: no embedding existed
+K_7_s_3_p_2_b_3_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_31_s_3_p_2_b_15_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_31_s_3_p_2_b_15_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_31_s_3_p_2_b_15_c_1 -> K_27_s_27_p_26_b_1 | Reason: no embedding existed
+K_31_s_3_p_2_b_15_c_1 -> K_29_s_5_p_4_b_7 | Reason: no embedding existed
+K_31_s_3_p_2_b_15_c_1 -> K_29_s_29_p_28_b_1 | Reason: no embedding existed
+K_31_s_7_p_6_b_5_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_31_s_7_p_6_b_5_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_31_s_7_p_6_b_5_c_1 -> K_27_s_3_p_2_b_13 | Reason: no embedding existed
+K_31_s_7_p_6_b_5_c_1 -> K_27_s_27_p_26_b_1 | Reason: no embedding existed
+K_31_s_7_p_6_b_5_c_1 -> K_29_s_5_p_4_b_7 | Reason: no embedding existed
+K_31_s_7_p_6_b_5_c_1 -> K_29_s_29_p_28_b_1 | Reason: no embedding existed
+K_87_s_3_p_2_b_43_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_7_s_3_p_2_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_43_s_15_p_14_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_87_s_3_p_2_b_43_c_1 -> K_85_s_5_p_4_b_21 | Reason: no embedding existed
+K_87_s_3_p_2_b_43_c_1 -> K_85_s_13_p_12_b_7 | Reason: no embedding existed
+K_87_s_3_p_2_b_43_c_1 -> K_85_s_29_p_28_b_3 | Reason: no embedding existed
+K_87_s_3_p_2_b_43_c_1 -> K_85_s_85_p_84_b_1 | Reason: no embedding existed
+K_31_s_31_p_30_b_1_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_31_s_31_p_30_b_1_c_1 -> K_7_s_3_p_2_b_3 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_31_s_31_p_30_b_1_c_1 -> K_27_s_3_p_2_b_13 | Reason: no embedding existed
+K_31_s_31_p_30_b_1_c_1 -> K_27_s_27_p_26_b_1 | Reason: no embedding existed
+K_31_s_31_p_30_b_1_c_1 -> K_29_s_5_p_4_b_7 | Reason: no embedding existed
+K_31_s_31_p_30_b_1_c_1 -> K_29_s_29_p_28_b_1 | Reason: no embedding existed
+K_43_s_3_p_2_b_21_c_1 -> K_5_s_5_p_4_b_1 | Reason: no embedding existed
+K_43_s_3_p_2_b_21_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_19_s_7_p_6_b_3 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_43_s_3_p_2_b_21_c_1 -> K_41_s_9_p_8_b_5 | Reason: no embedding existed
+K_43_s_3_p_2_b_21_c_1 -> K_41_s_41_p_40_b_1 | Reason: no embedding existed
+K_91_s_31_p_30_b_3_c_1 -> K_5_s_5_p_4_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_7_s_7_p_6_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_9_s_9_p_8_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_11_s_3_p_2_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_11_s_11_p_10_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_13_s_5_p_4_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_13_s_13_p_12_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_15_s_3_p_2_b_7 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_15_s_15_p_14_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_17_s_17_p_16_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_19_s_3_p_2_b_9 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_19_s_19_p_18_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_21_s_5_p_4_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_21_s_21_p_20_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_23_s_3_p_2_b_11 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_23_s_23_p_22_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_25_s_9_p_8_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_25_s_25_p_24_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_27_s_3_p_2_b_13 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_27_s_27_p_26_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_29_s_5_p_4_b_7 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_29_s_29_p_28_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_31_s_3_p_2_b_15 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_31_s_7_p_6_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_31_s_11_p_10_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_31_s_31_p_30_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_33_s_33_p_32_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_35_s_3_p_2_b_17 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_35_s_35_p_34_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_37_s_5_p_4_b_9 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_37_s_13_p_12_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_37_s_37_p_36_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_39_s_3_p_2_b_19 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_39_s_39_p_38_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_41_s_9_p_8_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_41_s_41_p_40_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_43_s_3_p_2_b_21 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_43_s_7_p_6_b_7 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_43_s_43_p_42_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_45_s_5_p_4_b_11 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_45_s_45_p_44_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_47_s_3_p_2_b_23 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_47_s_47_p_46_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_49_s_17_p_16_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_49_s_49_p_48_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_51_s_3_p_2_b_25 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_51_s_11_p_10_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_51_s_51_p_50_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_53_s_5_p_4_b_13 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_53_s_53_p_52_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_55_s_3_p_2_b_27 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_55_s_7_p_6_b_9 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_55_s_19_p_18_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_55_s_55_p_54_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_57_s_9_p_8_b_7 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_57_s_57_p_56_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_59_s_3_p_2_b_29 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_59_s_59_p_58_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_61_s_5_p_4_b_15 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_61_s_13_p_12_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_61_s_21_p_20_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_61_s_61_p_60_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_63_s_3_p_2_b_31 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_63_s_63_p_62_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_65_s_65_p_64_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_67_s_3_p_2_b_33 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_67_s_7_p_6_b_11 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_67_s_23_p_22_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_67_s_67_p_66_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_69_s_5_p_4_b_17 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_69_s_69_p_68_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_71_s_3_p_2_b_35 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_71_s_11_p_10_b_7 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_71_s_15_p_14_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_71_s_71_p_70_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_73_s_9_p_8_b_9 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_73_s_25_p_24_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_73_s_73_p_72_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_75_s_3_p_2_b_37 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_75_s_75_p_74_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_77_s_5_p_4_b_19 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_77_s_77_p_76_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_79_s_3_p_2_b_39 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_79_s_7_p_6_b_13 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_79_s_27_p_26_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_79_s_79_p_78_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_81_s_17_p_16_b_5 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_81_s_81_p_80_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_83_s_3_p_2_b_41 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_83_s_83_p_82_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_85_s_5_p_4_b_21 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_85_s_13_p_12_b_7 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_85_s_29_p_28_b_3 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_85_s_85_p_84_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_87_s_3_p_2_b_43 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_87_s_87_p_86_b_1 | Reason: timed out
+K_91_s_31_p_30_b_3_c_1 -> K_89_s_9_p_8_b_11 | Reason: no embedding existed
+K_91_s_31_p_30_b_3_c_1 -> K_89_s_89_p_88_b_1 | Reason: no embedding existed

@@ -1,2 +1,0 @@
-Original Graph: K_63, s=63, p=62, b(n)=1
-Embedded Graph: K_43, s=43, p=42, b(n)=1

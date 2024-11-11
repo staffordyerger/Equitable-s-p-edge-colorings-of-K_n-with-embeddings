@@ -1,2 +1,2 @@
-Original Graph: K_39, s=3, p=2, b(n)=19
-Embedded Graph: K_35, s=3, p=2, b(n)=17
+Original Graph: K_39_s_3_p_2_b_19_c_1
+Embedded Graph: K_35_s_3_p_2_b_17_c_1
